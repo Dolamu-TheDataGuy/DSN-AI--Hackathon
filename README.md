@@ -1,5 +1,5 @@
 # DSN-AI--Hackathon
-My solution model for the Data Science Nigeria Artificial Intelligence Bootcamp 2021.
+My solution model for the Zindi Data Science Nigeria Artificial Intelligence Bootcamp 2021.
 
 <img src = "Flyer.png"/>
 <h2>Problem Description</h2>
